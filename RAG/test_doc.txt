@@ -1,0 +1,14 @@
+This is a sample text document for testing the upload functionality.
+
+It contains multiple paragraphs to test the document chunking and indexing process.
+
+The RAG Demo application should be able to process this file and add it to the search index.
+
+This document can be used to verify that:
+1. File upload works correctly
+2. Text content is properly extracted
+3. Documents are chunked appropriately
+4. Content is indexed in Azure Search
+5. The uploaded content can be found through search queries
+
+Testing various content types and structures helps ensure the system works reliably.
